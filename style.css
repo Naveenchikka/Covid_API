@@ -39,8 +39,7 @@ h2
     padding-left: 40px;
     border-radius: 10px;
     box-shadow: 2px 3px 5px -2px;
-    /* background-image: linear-gradient(-145deg, #F95D6D, #e6bdbd); */
-    background-image: linear-gradient(-100);
+    background-image: linear-gradient(-145deg, #7f5df9, #e6bdbd);
     overflow: hidden;
     transition: width 1s, height 1s;
     opacity: 80%;
